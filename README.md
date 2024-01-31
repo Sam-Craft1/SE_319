@@ -1,0 +1,1 @@
+This Repo contains all of my daily activites from my S E 319 Class.
