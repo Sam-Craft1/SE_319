@@ -1,5 +1,5 @@
 
-    fetch("MoviesFromJSON.json")
+    fetch("craftsam_Activity08_MoviesFromJSON.json")
  .then(function (response) {
     return response.json()
    })

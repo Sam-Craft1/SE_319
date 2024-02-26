@@ -4,7 +4,7 @@ function getInputValue() {
     let movieName = document.forms["my_form"]["inputMovieName"]
     let inputMovieName = movieName.value
 
-    fetch("MoviesFromJSON.json")
+    fetch("craftsam_Activity08_MoviesFromJSON.json")
  .then(function (response) {
     return response.json()
    })
