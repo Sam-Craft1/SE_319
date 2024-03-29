@@ -1,4 +1,4 @@
-exports.Products = [
+export const Products = [
     {
       "id": 1,
       "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
